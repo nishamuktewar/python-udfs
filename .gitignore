@@ -1,0 +1,7 @@
+R
+node_modules
+*.pyc
+.*
+!.gitignore
+py2_env.zip
+py3_env.zip
